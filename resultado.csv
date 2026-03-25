@@ -1,0 +1,21 @@
+algoritmo,teste,n,operacoes,ms
+Algoritmo 1,Teste Grande,31250000,46875000,37,088
+Algoritmo 1,Teste Grande,62500000,93750000,64,654
+Algoritmo 1,Teste Grande,125000000,187500000,69,915
+Algoritmo 1,Teste Grande,250000000,375000000,125,689
+Algoritmo 1,Teste Grande,500000000,750000000,324,570
+Algoritmo 2,Teste Grande,31250000,62500032,66,292
+Algoritmo 2,Teste Grande,62500000,125000033,97,622
+Algoritmo 2,Teste Grande,125000000,250000034,0,000
+Algoritmo 2,Teste Grande,250000000,500000035,0,001
+Algoritmo 2,Teste Grande,500000000,1000000036,0,000
+Algoritmo 3,Teste Medio,12500,78264561,104,498
+Algoritmo 3,Teste Medio,25000,312793205,389,413
+Algoritmo 3,Teste Medio,50000,1250622183,1292,125
+Algoritmo 3,Teste Medio,100000,5001311099,6578,714
+Algoritmo 3,Teste Medio,200000,20002751076,25566,343
+Algoritmo 4,Teste Pequeno,3,3,0,001
+Algoritmo 4,Teste Pequeno,6,15,0,001
+Algoritmo 4,Teste Pequeno,12,287,0,014
+Algoritmo 4,Teste Pequeno,24,92735,0,263
+Algoritmo 4,Teste Pequeno,48,9615053951,12964,975
